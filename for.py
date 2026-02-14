@@ -1,0 +1,3 @@
+notas = [9,6,7,5,4,10]
+for i in notas:
+    print(i)
