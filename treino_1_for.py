@@ -1,5 +1,3 @@
-
-
 num = int(input("Digite um numero: "))
 cont = 0
 cont = cont + 1
@@ -9,4 +7,3 @@ for cont in range(20):
     else:
         print("Esse numero não é par")
 
-    
