@@ -4,7 +4,7 @@ tabela = {"Alface": 5.00,
     "Banana": 5.67}
 total = 0
 while True:    
-    produto = input("Qual produto você quer adicionar: ")
+    produto = input("Qual produto você quer adicionar: ").captalize()
     qntd = int(input("Quanto você quer adicionar: "))
     subtotal = tabela.get(produto) * qntd
     total += subtotal 
