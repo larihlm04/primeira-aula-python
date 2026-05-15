@@ -8,4 +8,4 @@ while cont <= 10:
     print(f"{valor} * {numero} = {resultado}")
 
 
-//chr - função que recebe um argumento ou um número
+#chr - função que recebe um argumento ou um número
