@@ -1,0 +1,5 @@
+#função dobro
+def dobro(num):
+    return num * 2
+
+print(dobro(2))
