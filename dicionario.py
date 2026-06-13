@@ -10,3 +10,4 @@ for produto in produtos:
     if produto["preco"] >= 5.5:
         print(f"O produto é:", produto["nome"])
 
+
